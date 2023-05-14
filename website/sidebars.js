@@ -1,7 +1,7 @@
 module.exports = {
 	docs: {
 		'Getting Started': [
-			'welcome',
+			'digital-experience-team',
 			'eightshift-libs',
 			'eightshift-frontend-libs',
 			'requirements',
